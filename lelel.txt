@@ -6,3 +6,8 @@ Revert - dowolny commit z historii, ktory robi zmiany przeciwne do commita macie
 dodaje linie.
 
 I NOWY FICZER <3
+
+asfasdfd
+
+
+ dfasdaf
