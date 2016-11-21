@@ -1,0 +1,8 @@
+Reset - tylko wtedy gdy nie wypchnalem do repo. Tylko lokalnie!
+
+Revert - dowolny commit z historii, ktory robi zmiany przeciwne do commita macierzystego.
+
+
+dodaje linie.
+
+I NOWY FICZER <3
